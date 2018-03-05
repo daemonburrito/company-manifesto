@@ -1,10 +1,9 @@
 _The following document is, at once, a:_
-* _A thought experiment, in which one constraint is removed and the organization of a new entity is proposed. Its legal classification is not formally specified; it could be an S-Corp, a 501c3, etc. The details are purposefully unspecified for our purposes._
+* _A thought experiment, in which one constraint is removed and the organization of a new entity is proposed. Its legal classification is not formally specified; it could be an S-Corp, a 501c3, etc; perhaps even an entity which has not been specified statuatorily. The details are purposefully unspecified for our purposes._
 * _An outline of guiding principles for the creation of such an entity; where no ethical compromises are made._
 * _An exploration of the limits in place in our society for entities of this type; others surely exist and bear similarilities: the Electronic Frontier Foundation, the Mozilla Foundation and its corporate sibling, the Free Software Foundation/GNU, etc._
 
 # Dreams, without regard to feasibility.
-
 The author of this essay believes that one, non-exclusive, way to explore the seemingly-impossible is to remove one "roadblock", without regard to the difficulty or even feasibility of such a task.
 
 Obviously, not all "roadblocks" are created equal; for example, violating some fundamental law of physics is not in the same class as changing legislation or altering a societal norm.
@@ -17,6 +16,8 @@ For the purposes of this document, the ignored constraint is _funding_. The deta
 A engineers will be small teams, respected for their craft. 
 
 ## Professonal courtesy and respect
+
+In as much as this heading title can be self-explanatory, it is. Further details will be explained in out CoC (Code Of Conduct).
 
 ### Modern techniques which shall not be tolerated
 No psychological manipulation, personality tests, or any other cargo cult or scientifically-questionable practices allowed (non-exhaustively: Myers-Briggs and variants thereof, personality profiles, etc.) No such job description shall exist; engineers will be able to work as a team and perform, or not. No hidden incentives or manipulation will make the difference.
