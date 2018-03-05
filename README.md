@@ -9,4 +9,4 @@ Anyway, I've gone on too long, I'm afraid, so without further ado, here is my (a
 Scott M. "daemonburrito" Drake
 2018 03 05
 
-https://cdn.rawgit.com/daemonburrito/company-manifesto/master/gpl-3.0/GPLv3-Logo.svg
+https://cdn.rawgit.com/daemonburrito/company-manifesto/master/gpl-3.0/GPLv3_Logo.svg
