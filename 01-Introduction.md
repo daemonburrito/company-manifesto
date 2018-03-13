@@ -1,0 +1,4 @@
+_The following document is, at once, a:_
+* _A thought experiment, in which one constraint is removed and the organization of a new entity is proposed. Its legal classification is not formally specified; it could be an S-Corp, a 501(c\)(3) à la Software in the Public Interest, etc.; perhaps even an entity which has not been specified statuatorily or even not yet imagined. The details are deliberately unspecified for our purposes._
+* _An outline of guiding principles for the creation of such an entity; where no ethical compromises are, or could be, made, without changing the nature of thing itself._
+* _An exploration of the limits in place in our society for entities of this type; others surely exist and bear similarilities: the Electronic Frontier Foundation, the Mozilla Foundation and its corporate sibling, the Free Software Foundation/GNU, etc._
